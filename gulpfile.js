@@ -1,3 +1,8 @@
+// in case of webp error - install ------>
+// npm install webp-converter@2.2.3 --save-dev 
+
+
+
 let project_folder = require("path").basename(__dirname);
 let source_folder = "#src";
 
